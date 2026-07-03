@@ -10,23 +10,34 @@ This repository showcases projects completed using Power BI, Tableau, SQL, Excel
 
 # Featured Projects
 
-## Power BI
+## 📊 Business Intelligence & Dashboards
 
-- Executive Donation Analytics Dashboard *(In Progress)*
+- Executive Donation Analytics Dashboard *(Power BI)*
+- Customer Sentiment Analysis Dashboard *(Coming Soon)*
+- Marketing Analytics Dashboard *(Coming Soon)*
+- Tableau Business Dashboards *(Coming Soon)*
 
-## Tableau
+---
+
+## 🤖 Machine Learning
+
+- Social Anxiety Prediction using Machine Learning *(Coming Soon)*
+
+---
+
+## 🗄️ SQL Projects
 
 *(Coming Soon)*
 
-## Machine Learning
+---
+
+## 📈 Excel Analytics
 
 *(Coming Soon)*
 
-## SQL
+---
 
-*(Coming Soon)*
-
-## Excel
+## 💼 Business Analytics
 
 *(Coming Soon)*
 
